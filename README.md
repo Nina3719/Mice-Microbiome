@@ -2,7 +2,7 @@
 
 This project explores the intricacies of the microbiome. In particular, we aim to accomplish two goals: 1) classify the change in absolute abundance of a microbial taxa given one of the three perturbations and 2) classify the family of a microbial taxa given the fluctuations in absolute abundance of a microbial taxa. To accomplish the first goal we implemented several logistic regression models to forecast the effects of three different pertrubations on the microbiome system. These three perturbations were to subject the mice to either a high-fat diet, Vancomycin, or Gentamicin. For the second goal we made several recurrent networks and a convolutional neural network to help us classify the family of a particular microbial taxa, given variation in the absolute abundance. Although our neural networks provided some success, the lack of an abundant amount of data prevents our models from taking full advantage of the power of a neural net. Nevertheless, we successfully accomplished both goals.
 
-### Authors
+## Authors
 Nina Chen
 Moni Radev
 Jessica Tian
