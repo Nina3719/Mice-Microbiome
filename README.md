@@ -32,3 +32,7 @@ Travis E. Gibson <tegibson@bwh.harvard.edu>
 * Gibson, T.E., Gerber, G.K. Proceedings of the 35th International Conference on Machine Learning, PMLR __80__:1763-1772, (2018). <http://proceedings.mlr.press/v80/gibson18a>
 
 * Gerber, Georg K., The dynamic microbiome, *FEBS Letters*, **588**, (2014) <https://doi.org/10.1016/j.febslet.2014.02.037>
+
+
+#### Notes
+* Data not included for privacy reasons
